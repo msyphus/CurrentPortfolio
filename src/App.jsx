@@ -36,8 +36,8 @@ function App() {
                   </a>
                 </div>
                 <div>
-                  <a href='mailto:mark@syphware.com'>
-                    mark@syphware.com
+                  <a href='mailto:mark.syphus@gmail.com'>
+                    mark.syphus@gmail.com
                   </a>
                 </div>
               </Col>
